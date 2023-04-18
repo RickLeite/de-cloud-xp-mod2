@@ -1,4 +1,6 @@
 *.tsv
 *.csv
 *.pdf
-data/dados/
+data/
+.vscode/
+__pycache__/
