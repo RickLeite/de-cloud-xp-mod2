@@ -4,3 +4,8 @@
 data/
 .vscode/
 __pycache__/
+*.tfstate
+*.tfstate.*
+**/.terraform/*
+**/.terraform.lock.hcl
+**/terraform warning*
